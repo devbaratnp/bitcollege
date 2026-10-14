@@ -1,0 +1,7 @@
+{
+  "html_pages": 39,
+  "distinct_icons": 46,
+  "errors": [],
+  "javascript_check": "run node --check dist/app.js",
+  "browser_qa": "blocked by supervised preview environment"
+}

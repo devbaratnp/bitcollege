@@ -1,0 +1,13 @@
+{
+  "name": "bit-campus-redesign",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "python3 build_site.py",
+    "check": "python3 validate_site.py && node --check dist/app.js",
+    "test": "node tests/interactions.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
+}

@@ -1,0 +1,13 @@
+BIT website project
+
+Complete editable source and the latest generated static website are included.
+
+To preview: serve the dist folder using any static web server.
+Example: python3 -m http.server 8000 --directory dist
+Then open http://localhost:8000
+
+To regenerate pages: python3 build_site.py
+To validate: python3 validate_site.py
+Read README.md for project details and verification limits.
+
+Deploy the contents of dist to your static website hosting.

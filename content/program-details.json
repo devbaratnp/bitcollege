@@ -1,0 +1,2560 @@
+{
+  "schema_version": 1,
+  "research_date": "2026-10-13",
+  "programs": [
+    {
+      "key": "computer",
+      "name": "Computer Engineering",
+      "title": "Diploma in Computer Engineering",
+      "slug": "diploma-in-computer-engineering",
+      "source_url": "https://bit.edu.np/diploma-in-computer-engineering/",
+      "source_last_updated": "2022-11-30",
+      "source_last_updated_display": "30-11-2022",
+      "source_retrieval": "Official BIT search-index content, checked against multiple retrievals. Direct public HTML fetch returned HTTP 403; most web-open fetches returned 502/timeouts.",
+      "source_refs": [
+        "turn24search0",
+        "turn23search3",
+        "user-supplied Computer page details relayed by parent"
+      ],
+      "metadata": {
+        "duration_years": 3,
+        "category": "Computer/Technical",
+        "language": "English",
+        "affiliation": "CTEVT"
+      },
+      "tabs": {
+        "overview": [
+          "Computer Engineering combines computer science and electrical engineering to design and develop computing systems, networks and software. It includes computer hardware such as processors, memory and peripheral devices, alongside applications and operating systems.",
+          "Computer engineers connect computing systems with other electronic devices and build networks for communication and data transfer. The field also addresses cybersecurity and data privacy, with applications across health care, finance, transportation and other industries.",
+          "BIT’s published course structure introduces programming, web technology, databases, digital logic, microprocessors, networking, operating systems, multimedia and information security. Minor and major projects connect these technical areas through practical work."
+        ],
+        "eligibility": {
+          "status": "Published historical BIT eligibility; not verified as current admission-cycle requirements.",
+          "source_excerpt": "All Nepalese and foreign candidates must meet the entrance requirement of CTEVT.",
+          "general_stream": "SEE/SLC pass or equivalent, as stated by the original BIT page.",
+          "tslc_thresholds_source": {
+            "IOE_aggregate_percent": 66.66,
+            "CTEVT_aggregate_percent": 68.33
+          },
+          "foreign_student_documents": "Two copies of domicile certificate or passport.",
+          "application_form": "BIT administration office or authorized centre; application fee determined by CTEVT. No rupee amount verified.",
+          "current_guidance": "Confirm the current CTEVT notice and BIT admission requirements before applying."
+        },
+        "scope": [
+          "Software development",
+          "Hardware design",
+          "Network administration",
+          "Cybersecurity",
+          "Internet of Things",
+          "Artificial intelligence and machine learning",
+          "Gaming",
+          "Robotics",
+          "Data science"
+        ]
+      },
+      "why_choose": {
+        "summary": "Connect computer science and electrical concepts through practical computing, interdisciplinary study and project work.",
+        "benefits": [
+          "Practical computing experience",
+          "Software and hardware foundations",
+          "Interdisciplinary learning",
+          "Minor and major project work",
+          "Transferable technical skills",
+          "Diverse technical career directions",
+          "An introduction to emerging technologies"
+        ]
+      },
+      "semesters": [
+        {
+          "number": 1,
+          "label": "Semester 1",
+          "subjects": [
+            {
+              "subject": "Applied Nepali",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Applied English",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Engineering Mathematics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": null,
+              "source_labels": [
+                "Engineering",
+                "Mathematics I"
+              ],
+              "source_serials": [
+                3,
+                4
+              ]
+            },
+            {
+              "subject": "Engineering Physics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Engineering Chemistry I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Computer Application",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            },
+            {
+              "subject": "Engineering Drawing I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 8
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "label": "Semester 2",
+          "subjects": [
+            {
+              "subject": "Engineering Mathematics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": null,
+              "source_labels": [
+                "Engineering",
+                "Mathematics II"
+              ],
+              "source_serials": [
+                1,
+                2
+              ]
+            },
+            {
+              "subject": "Engineering Physics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Engineering Chemistry II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Workshop Practice I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Engineering Drawing II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Applied Mechanics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "label": "Semester 3",
+          "subjects": [
+            {
+              "subject": "Engineering Mathematics III",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "C programming",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Web Technology I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Digital Logic",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Discrete Structure",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Software Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Basic Electrical and Electronics Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "label": "Semester 4",
+          "subjects": [
+            {
+              "subject": "Database Management System",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": null,
+              "source_labels": [
+                "Database Management",
+                "System"
+              ],
+              "source_serials": [
+                1,
+                2
+              ]
+            },
+            {
+              "subject": "Data Structure and Algorithm",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Object Oriented Programming in Java",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Microprocessor and Computer Architecture",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Web Technology II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Statistics and Probability",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "label": "Semester 5",
+          "subjects": [
+            {
+              "subject": "Computer Graphics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Data Communication and Network",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Applied Telecommunication",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Computer Repair and Maintenance",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Operating System",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Data Mining and data warehousing",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Minor Project",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            },
+            {
+              "subject": "Elective I (choose one)",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": null,
+              "elective_options": [
+                "Geographical Information System",
+                "E-commerce",
+                "Management Information System"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "label": "Semester 6",
+          "subjects": [
+            {
+              "subject": "Multimedia System",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Internet of Things",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Information Security",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Entrepreneurship Development",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Major Project",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Elective II (choose one)",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": null,
+              "elective_options": [
+                "E-Governance",
+                "Computer Simulation and Modeling",
+                "Artificial Intelligence"
+              ]
+            }
+          ]
+        }
+      ],
+      "career_outcomes": [
+        "Computer programming",
+        "Computer hardware repair and maintenance",
+        "Computer networking",
+        "Database administration",
+        "Graphics and desktop publishing",
+        "Technical work in public offices, telecommunications, broadcasting, airlines and computer workshops"
+      ],
+      "hod": {
+        "name": "Er. Sarita Jayaswal",
+        "role_source": "HOD, Computer Engineering Department",
+        "photo_url": "https://bit.edu.np/wp-content/uploads/2023/04/sarati-2-1-280x300.png",
+        "status": "Named in the official course page; current appointment not independently confirmed."
+      },
+      "faculty": [
+        {
+          "name": "Er. Sarita Jayaswal",
+          "qualification": "ME(Computer)",
+          "photo_url": "https://bit.edu.np/wp-content/uploads/2023/04/sarati-2-1-280x300.png"
+        },
+        {
+          "name": "Mr. Bijay Kr. Kushwaha",
+          "qualification": "MCA(IT)",
+          "photo_url": null
+        },
+        {
+          "name": "Md. Nasimul Gani",
+          "qualification": "MCA(IT)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Santosh Kumar Sah",
+          "qualification": "ME(Computer)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Amrish Singh",
+          "qualification": "B.Sc(Computer Science)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Dharmendra Pd. Gupta",
+          "qualification": "BCA, MCP",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Md. Iqbal Hussain",
+          "qualification": "BE(Computer)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Laukesh Jaishwal",
+          "qualification": "BSc.CSIT (Cont..)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Ravi Kumar Gupta",
+          "qualification": "DE(Computer)",
+          "photo_url": null
+        },
+        {
+          "name": "Md. Sahil Ali",
+          "qualification": "DE(Computer)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Dipak Chaudhary",
+          "qualification": "DE(Computer)",
+          "photo_url": null
+        }
+      ],
+      "faculty_coverage": "Complete list returned in the indexed official course page.",
+      "syllabus_url": "https://ctevt.org.np/uploads/docs/2022-08-17_Diploma%20in%20Computer%20Engineering_revised_2022.pdf",
+      "bit_syllabus_button_url": null,
+      "syllabus_status": "Verified official CTEVT curriculum PDF fallback, not a reconstructed BIT button href. Label with the revision year.",
+      "youtube_embed_url": "https://www.youtube.com/embed/7SHEdlpFhXk?feature=oembed",
+      "photos": [
+        {
+          "role": "why_choose",
+          "url": "https://bit.edu.np/wp-content/uploads/2023/02/2H8A3304_11zon-1024x683.jpg",
+          "provenance": "User-supplied official Computer page image URL."
+        }
+      ],
+      "source_anomalies": [
+        "Source tables use serial-like 1,2,3 values under Subject code; these are preserved as source_serial, not represented as genuine course codes.",
+        "Credit-hour and full-mark cells are empty in BIT source tables, retained as null.",
+        "This is the syllabus listing published by BIT, not proof of its present curriculum implementation.",
+        "Computer I source splits Engineering / Mathematics I into serial rows 3 and 4; joined as Engineering Mathematics I for display. Original labels preserved on the row.",
+        "Computer II source splits Engineering / Mathematics II into serial rows 1 and 2; joined as Engineering Mathematics II.",
+        "Computer IV source splits Database Management / System into serial rows 1 and 2; joined as Database Management System. The published table therefore yields six normalized subjects, not seven independent ones.",
+        "Computer V/VI source attaches elective options to the project row; extracted into separate unnumbered elective rows."
+      ],
+      "coverage_gaps": [
+        "No live raw HTML available from direct fetch.",
+        "No authentic BIT syllabus href exposed.",
+        "No portraits for ten additional Computer faculty members exposed."
+      ],
+      "youtube_provenance": "Exact embed URL supplied by the user in source Computer page data, relayed by parent.",
+      "official_curriculum": {
+        "url": "https://ctevt.org.np/uploads/docs/2022-08-17_Diploma%20in%20Computer%20Engineering_revised_2022.pdf",
+        "revision_year": 2022,
+        "page_count": 110,
+        "source_ref": "turn26view0",
+        "content_type": "application/pdf",
+        "status": "PDF opened successfully through official-source web retrieval. Current applicability to BIT intake should be confirmed.",
+        "local_asset": "assets/syllabus-computer.pdf",
+        "download_status": "Downloaded successfully from official CTEVT URL; PDF signature validated."
+      }
+    },
+    {
+      "key": "civil",
+      "name": "Civil Engineering",
+      "title": "Diploma in Civil Engineering",
+      "slug": "diploma-in-civil-engineering",
+      "source_url": "https://bit.edu.np/diploma-in-civil-engineering/",
+      "source_last_updated": "2022-11-30",
+      "source_last_updated_display": "30-11-2022",
+      "source_retrieval": "Official BIT search-index content, checked against multiple retrievals. Direct public HTML fetch returned HTTP 403; most web-open fetches returned 502/timeouts.",
+      "source_refs": [
+        "turn23search0",
+        "turn24search6"
+      ],
+      "metadata": {
+        "duration_years": 3,
+        "category": "Civil",
+        "language": "English",
+        "affiliation": "CTEVT"
+      },
+      "tabs": {
+        "overview": [
+          "Civil Engineering study addresses the planning, design, construction and maintenance of infrastructure such as buildings, roads, bridges and water systems.",
+          "The BIT subject listing combines engineering sciences with surveying, materials, drawing, estimation, structures, transportation, water resources and a final project."
+        ],
+        "eligibility": {
+          "status": "Published historical BIT eligibility; not verified as current admission-cycle requirements.",
+          "source_excerpt": "All Nepalese and foreign candidates must meet the entrance requirement of CTEVT.",
+          "general_stream": "SEE/SLC pass or equivalent, as stated by the original BIT page.",
+          "tslc_thresholds_source": {
+            "IOE_aggregate_percent": 66.66,
+            "CTEVT_aggregate_percent": 68.33
+          },
+          "foreign_student_documents": "Two copies of domicile certificate or passport.",
+          "application_form": "BIT administration office or authorized centre; application fee determined by CTEVT. No rupee amount verified.",
+          "current_guidance": "Confirm the current CTEVT notice and BIT admission requirements before applying."
+        },
+        "scope": [
+          "Infrastructure planning",
+          "Construction drawing and estimation",
+          "Construction supervision and maintenance",
+          "Buildings, roads, bridges and transport infrastructure",
+          "Water supply, drainage and irrigation infrastructure"
+        ]
+      },
+      "why_choose": {
+        "summary": "Explore the built environment through surveying, construction concepts, laboratory work, field activity and projects.",
+        "benefits": [
+          "Practical experience",
+          "Technical career directions",
+          "Further study opportunities",
+          "Transferable technical skills"
+        ]
+      },
+      "semesters": [
+        {
+          "number": 1,
+          "label": "Semester 1",
+          "subjects": [
+            {
+              "subject": "Applied Nepali",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Applied English",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Engineering Mathematics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Engineering Physics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Engineering Chemistry I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Computer Application",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Engineering Drawing I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "label": "Semester 2",
+          "subjects": [
+            {
+              "subject": "Engineering Mathematics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Engineering Physics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Engineering Chemistry II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Workshop Practice I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Engineering Drawing II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Applied Mechanics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "label": "Semester 3",
+          "subjects": [
+            {
+              "subject": "Engineering Mathematics III",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Surveying I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Workshop Practice II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Fluid Mechanics and Hydraulics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Building Construction",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Engineering Materials",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "label": "Semester 4",
+          "subjects": [
+            {
+              "subject": "Social Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Surveying II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Construction Drawing and CAD",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Estimating & Costing I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Mechanics of Structure",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Soil Mechanics and Foundation Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Water Supply Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "label": "Semester 5",
+          "subjects": [
+            {
+              "subject": "Surveying III",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Estimating and Costing II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Design of Reinforced Concrete (RC) Structure",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Transportation Engineering I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Sanitary Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Construction Management",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Design of Steel and Timber Structure",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "label": "Semester 6",
+          "subjects": [
+            {
+              "subject": "Field Survey Camp",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Transportation Engineering II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Estimating and Costing III",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Water Resources and Irrigation Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Project Work",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Elective (choose one)",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": null,
+              "elective_options": [
+                "Trail Bridge",
+                "Hill Road",
+                "Hill Irrigation Engineering",
+                "Gravity Flow Water Supply System",
+                "Micro Hydro Power Engineering"
+              ],
+              "source_elective_options": [
+                "Tail Bridge",
+                "Hill Road",
+                "Hill Irrigation Engineering",
+                "Gravity Flow Water Supply System",
+                "Micro Hydro Power Engineering"
+              ]
+            }
+          ]
+        }
+      ],
+      "career_outcomes": [
+        "Sub-engineering work in roads and buildings",
+        "Surveying, drafting and interpreting drawings",
+        "Construction estimation and maintenance",
+        "Small-project design support",
+        "Technical work in public infrastructure departments, utilities, construction and consultancy firms"
+      ],
+      "hod": {
+        "name": "Er. Sudhir Keshari",
+        "role_source": "Co-HoD, Civil Engineering Department",
+        "photo_url": null,
+        "status": "Named in the official course page; current appointment not independently confirmed."
+      },
+      "faculty": [
+        {
+          "name": "Er. Prakash Adhikari",
+          "qualification": "ME(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Radhakant Prasad Sah",
+          "qualification": "BE(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Om Prakash Pandit",
+          "qualification": "BE(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Sanjay Kumar Sah",
+          "qualification": "DE(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Santosh Kumar Sah",
+          "qualification": "DE(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Manish Singh",
+          "qualification": "ME(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Rajesh Yadav",
+          "qualification": "BE(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Sanjiv Kumar Chaudhary",
+          "qualification": "BE(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Sudhir Keshari",
+          "qualification": "BE(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Manish Sunuwar",
+          "qualification": "BE(Civil)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Gautam Kumar Kashyap",
+          "qualification": "BE(Civil)",
+          "photo_url": null
+        }
+      ],
+      "faculty_coverage": "Complete list returned in the indexed official course page.",
+      "syllabus_url": "https://ctevt.org.np/uploads/docs/2022-08-26_diploma_in_civil_engineering_revised_2021.pdf",
+      "bit_syllabus_button_url": null,
+      "syllabus_status": "Verified official CTEVT curriculum PDF fallback, not a reconstructed BIT button href. Label with the revision year.",
+      "youtube_embed_url": null,
+      "photos": [],
+      "source_anomalies": [
+        "Source tables use serial-like 1,2,3 values under Subject code; these are preserved as source_serial, not represented as genuine course codes.",
+        "Credit-hour and full-mark cells are empty in BIT source tables, retained as null.",
+        "This is the syllabus listing published by BIT, not proof of its present curriculum implementation.",
+        "Overview says 3–4 years; admission sidebar says 3 years. Use the program-specific three-year metadata.",
+        "Civil VI source attaches elective options to Project Work; separate elective row has no code/serial.",
+        "Course page calls Sudhir Keshari Co-HoD; homepage/management instead use HOD.",
+        "BIT spells the Civil elective Tail Bridge. Visible label corrected to Trail Bridge after confirmation against the official CTEVT Civil revised-2021 PDF, semester VI table and elective chapter. Original retained in source_elective_options.",
+        "CTEVT Civil revised-2021 includes Entrepreneurship Development (EG 3201 MG) in semester VI, which BIT’s webpage omits. The rendered table follows BIT’s subject listing; readers are directed to the complete official syllabus."
+      ],
+      "coverage_gaps": [
+        "No live raw HTML available from direct fetch.",
+        "No authentic BIT syllabus href exposed.",
+        "No video URL exposed by indexed page.",
+        "No program/HOD photo href exposed by indexed page."
+      ],
+      "official_curriculum": {
+        "url": "https://ctevt.org.np/uploads/docs/2022-08-26_diploma_in_civil_engineering_revised_2021.pdf",
+        "revision_year": 2021,
+        "page_count": 122,
+        "source_ref": "turn26view1",
+        "content_type": "application/pdf",
+        "status": "PDF opened successfully through official-source web retrieval. Current applicability to BIT intake should be confirmed.",
+        "local_asset": "assets/syllabus-civil.pdf",
+        "download_status": "Downloaded successfully from official CTEVT URL; PDF signature validated."
+      }
+    },
+    {
+      "key": "electrical",
+      "name": "Electrical Engineering",
+      "title": "Diploma in Electrical Engineering",
+      "slug": "diploma-in-electrical-engineering",
+      "source_url": "https://bit.edu.np/diploma-in-electrical-engineering/",
+      "source_last_updated": "2022-11-30",
+      "source_last_updated_display": "30-11-2022",
+      "source_retrieval": "Official BIT search-index content, checked against multiple retrievals. Direct public HTML fetch returned HTTP 403; most web-open fetches returned 502/timeouts.",
+      "source_refs": [
+        "turn22search1",
+        "turn23search4"
+      ],
+      "metadata": {
+        "duration_years": 3,
+        "category": "Electrical/Technical",
+        "language": "English",
+        "affiliation": "CTEVT"
+      },
+      "tabs": {
+        "overview": [
+          "Electrical Engineering study concerns electricity, electronics, electrical machines and power systems.",
+          "The published BIT curriculum covers electrical fundamentals, installation, circuits, measurement, machines, power stations, protection, maintenance, projects and industrial attachment."
+        ],
+        "eligibility": {
+          "status": "Published historical BIT eligibility; not verified as current admission-cycle requirements.",
+          "source_excerpt": "All Nepalese and foreign candidates must meet the entrance requirement of CTEVT.",
+          "general_stream": "SEE/SLC pass or equivalent, as stated by the original BIT page.",
+          "tslc_thresholds_source": {
+            "IOE_aggregate_percent": 66.66,
+            "CTEVT_aggregate_percent": 68.33
+          },
+          "foreign_student_documents": "Two copies of domicile certificate or passport.",
+          "application_form": "BIT administration office or authorized centre; application fee determined by CTEVT. No rupee amount verified.",
+          "current_guidance": "Confirm the current CTEVT notice and BIT admission requirements before applying."
+        },
+        "scope": [
+          "Power generation and distribution",
+          "Communication and networking",
+          "Control systems",
+          "Electronics",
+          "Industrial automation",
+          "Electrical systems in transport",
+          "Consumer electronics",
+          "Medical-device systems",
+          "Research and development"
+        ]
+      },
+      "why_choose": {
+        "summary": "Connect circuit theory with installation, measurement, machines, electrical energy and practical technical work.",
+        "benefits": [
+          "Practical experience",
+          "Technical career directions",
+          "Further study opportunities",
+          "Transferable technical skills"
+        ]
+      },
+      "semesters": [
+        {
+          "number": 1,
+          "label": "Semester 1",
+          "subjects": [
+            {
+              "subject": "Applied Nepali",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Applied English",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Engineering Mathematics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Engineering Physics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Engineering Chemistry I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Engineering Drawing I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Computer Application",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "label": "Semester 2",
+          "subjects": [
+            {
+              "subject": "Engineering Mathematics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Engineering Physics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Engineering Chemistry II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Workshop Practice I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Engineering Drawing II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Applied Mechanics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "label": "Semester 3",
+          "subjects": [
+            {
+              "subject": "Fundamental of Electrical Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Computer Programming",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Basic Electronics and Logic circuits",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Civil Construction and Survey",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Electrical Engineering Material",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Principles of Management and Costing",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Electrical Installation I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            },
+            {
+              "subject": "Electrical Engineering Drawing I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 8
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "label": "Semester 4",
+          "subjects": [
+            {
+              "subject": "Microprocessor",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Computer Aided Design",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Electric Circuit Analysis",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Electrical Installation II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Electrical Engineering Drawing II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Electrical Machines I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Electrical Instruments and Measurement",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            },
+            {
+              "subject": "Power Stations",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 8
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "label": "Semester 5",
+          "subjects": [
+            {
+              "subject": "Switchgear and Protection",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Power Electronics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Electrical Machines II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Electrical Design and Estimation",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Utilization of Electrical Energy",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Fundamentals of Control System",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Electrical Repair and Maintenance I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            },
+            {
+              "subject": "Project I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 8
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "label": "Semester 6",
+          "subjects": [
+            {
+              "subject": "Electrical Energy Audit",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Project II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Power System Operation & Maintenance",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Electrical Repair and Maintenance II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Industrial Attachment",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Entrepreneurship Development",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Transmission and Distribution of Electrical Power",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            },
+            {
+              "subject": "Elective (choose one)",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": null,
+              "elective_options": [
+                "Micro Hydro power",
+                "Instrumentation System",
+                "Renewable Energy Technology"
+              ]
+            }
+          ]
+        }
+      ],
+      "career_outcomes": [
+        "Electrical machine and circuit operation",
+        "Electrical installation and maintenance",
+        "Mini/micro hydropower operation and maintenance",
+        "Domestic and industrial electrical supervision",
+        "Appliance repair",
+        "Power transmission and distribution support",
+        "Technical work with utilities, telecommunications, industries and workshops"
+      ],
+      "hod": {
+        "name": "Er. Digamber Yadav",
+        "role_source": "HoD, Electrical Engineering / Electrical & Electronics Engineering Department",
+        "photo_url": null,
+        "status": "Named in the official course page; current appointment not independently confirmed."
+      },
+      "faculty": [
+        {
+          "name": "Dr. Harishankar Pd. Sah",
+          "qualification": "PhD(Electrical Engg.)",
+          "photo_url": null
+        },
+        {
+          "name": "Dr. Nand Kishor Singh",
+          "qualification": "PhD(Electrical Engg., UK), Visiting Professor",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Raghib Hussain",
+          "qualification": "BE(Electronics)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Amit Kumar Yadav",
+          "qualification": "BE(Electrical)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Simran Patel",
+          "qualification": "BE(Electrical)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Jitesh Kumar Yadav",
+          "qualification": "BE(Electrical & Electronics)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Munna Kumar Sah",
+          "qualification": "BE(Electrical)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Pramod Kumar Yadav",
+          "qualification": "BE(Electrical)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Arun Kumar Yadav",
+          "qualification": "BE(Electrical & Electronics)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Ravi Ranjan Kushwaha",
+          "qualification": "BE(Electrical)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Digamber Yadav",
+          "qualification": "BE(Electronics & Communication)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Pawan Singh Basnet",
+          "qualification": "DE(Electrical)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Prithvenarayan Shah",
+          "qualification": "DE(Electrical)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Dinanath Sahani",
+          "qualification": "Lab Boy & Electrician",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Ravindra Yadav",
+          "qualification": "DE(Electrical)",
+          "photo_url": null
+        }
+      ],
+      "faculty_coverage": "Complete list returned in the indexed official course page.",
+      "syllabus_url": "https://ctevt.org.np/uploads/docs/2024-05-09_Diploma%20in%20Electrical%20Engineering_revised_2022.pdf",
+      "bit_syllabus_button_url": null,
+      "syllabus_status": "Verified official CTEVT curriculum PDF fallback, not a reconstructed BIT button href. Label with the revision year.",
+      "youtube_embed_url": null,
+      "photos": [],
+      "source_anomalies": [
+        "Source tables use serial-like 1,2,3 values under Subject code; these are preserved as source_serial, not represented as genuine course codes.",
+        "Credit-hour and full-mark cells are empty in BIT source tables, retained as null.",
+        "This is the syllabus listing published by BIT, not proof of its present curriculum implementation.",
+        "Electrical page identifies Digamber Yadav as HOD for both Electrical and Electrical & Electronics; the latter course page identifies Simran Patel. Show course-specific source roles cautiously.",
+        "Broad engineering-industry scope is educational context, not a diploma job guarantee or regulated professional title."
+      ],
+      "coverage_gaps": [
+        "No live raw HTML available from direct fetch.",
+        "No authentic BIT syllabus href exposed.",
+        "No video URL exposed by indexed page.",
+        "No program/HOD photo href exposed by indexed page."
+      ],
+      "official_curriculum": {
+        "url": "https://ctevt.org.np/uploads/docs/2024-05-09_Diploma%20in%20Electrical%20Engineering_revised_2022.pdf",
+        "revision_year": 2022,
+        "page_count": 119,
+        "source_ref": "turn26view2",
+        "content_type": "application/pdf",
+        "status": "PDF opened successfully through official-source web retrieval. Current applicability to BIT intake should be confirmed.",
+        "local_asset": "assets/syllabus-electrical.pdf",
+        "download_status": "Downloaded successfully from official CTEVT URL; PDF signature validated."
+      }
+    },
+    {
+      "key": "electrical-electronics",
+      "name": "Electrical & Electronics Engineering",
+      "title": "Diploma in Electrical & Electronics Engineering",
+      "slug": "diploma-in-electrical-and-electronics-engineering",
+      "source_url": "https://bit.edu.np/diploma-in-electrical-and-electronics-engineering/",
+      "source_last_updated": "2022-11-30",
+      "source_last_updated_display": "30-11-2022",
+      "source_retrieval": "Official BIT search-index content, checked against multiple retrievals. Direct public HTML fetch returned HTTP 403; most web-open fetches returned 502/timeouts.",
+      "source_refs": [
+        "turn22search2",
+        "turn23search1"
+      ],
+      "metadata": {
+        "duration_years": 3,
+        "category": "Electronics/Electrical",
+        "language": "English",
+        "affiliation": "CTEVT"
+      },
+      "tabs": {
+        "overview": [
+          "Electrical and Electronics Engineering connects electronic devices and circuits with electrical power and control systems.",
+          "The BIT listing covers electrical fundamentals, electronics, digital logic, microprocessors, PLC, machines, appliance repair, power electronics, communication, industrial attachment and a major project."
+        ],
+        "eligibility": {
+          "status": "Published historical BIT eligibility; not verified as current admission-cycle requirements.",
+          "source_excerpt": "All Nepalese and foreign candidates must meet the entrance requirement of CTEVT.",
+          "general_stream": "SEE/SLC pass or equivalent, as stated by the original BIT page.",
+          "tslc_thresholds_source": {
+            "IOE_aggregate_percent": 66.66,
+            "CTEVT_aggregate_percent": 68.33
+          },
+          "foreign_student_documents": "Two copies of domicile certificate or passport.",
+          "application_form": "BIT administration office or authorized centre; application fee determined by CTEVT. No rupee amount verified.",
+          "current_guidance": "Confirm the current CTEVT notice and BIT admission requirements before applying."
+        },
+        "scope": [
+          "Electronic system design",
+          "Device and system testing",
+          "Electronic system integration",
+          "Hardware design",
+          "Software for electronic devices",
+          "Communication networks"
+        ]
+      },
+      "why_choose": {
+        "summary": "Explore the systems behind electronic devices through circuits, digital logic, control, communication and industry-based projects.",
+        "benefits": [
+          "Practical experience",
+          "Technical career directions",
+          "Further study opportunities",
+          "Transferable technical skills"
+        ]
+      },
+      "semesters": [
+        {
+          "number": 1,
+          "label": "Semester 1",
+          "subjects": [
+            {
+              "subject": "Applied Nepali",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Applied English",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Engineering Mathematics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Engineering Physics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Engineering Chemistry I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Engineering Drawing I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6,
+              "source_label": "Engineering Drawing l"
+            },
+            {
+              "subject": "Computer Application",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "label": "Semester 2",
+          "subjects": [
+            {
+              "subject": "Engineering Mathematics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Engineering Physics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Engineering Chemistry II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Workshop Practice I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Engineering Drawing II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Applied Mechanics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "label": "Semester 3",
+          "subjects": [
+            {
+              "subject": "Fundamentals of Electrical Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Computer Programming",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Basic Electronics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Electrical Engineering Material",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Electrical Installation I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Computer Aided Drawing",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Electrical and Electronics Engineering Drawing",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            },
+            {
+              "subject": "Digital logic",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 8
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "label": "Semester 4",
+          "subjects": [
+            {
+              "subject": "Microprocessors",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Electric Circuit Analysis",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Electronics Devices and Circuits",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Basic Programmable Logic Control (PLC)",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Electrical Machines I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Electrical Instruments and Measurements",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Repair and Maintenance of Consumer Appliances I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "label": "Semester 5",
+          "subjects": [
+            {
+              "subject": "Switch Gear and Protection",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Power Electronics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Electrical Machines II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Minor Project",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Digital Electronics Circuit",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Repair & Maintenance of Consumer Appliances II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Communication System I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "label": "Semester 6",
+          "subjects": [
+            {
+              "subject": "Communication System II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Design, Estimating & Costing of Electrical & Electronics Installation",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Industry Based Major Project",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Industrial Attachment",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Entrepreneurship Development",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Transmission and Distribution of Electrical Power",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Elective (choose one)",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": null,
+              "elective_options": [
+                "Hydro Power",
+                "Broadcast Engineering",
+                "Renewable Energy Technology",
+                "Electrical Energy Management",
+                "Internet/Intranet",
+                "Satellite Communication"
+              ]
+            }
+          ]
+        }
+      ],
+      "career_outcomes": [
+        "Electrical/electronic circuit and machine operation",
+        "Domestic and industrial electrical work",
+        "Consumer appliance repair",
+        "Mini/micro hydropower maintenance",
+        "Power transmission/distribution support",
+        "Technical work in utilities, telecom, broadcasting, industry and workshops"
+      ],
+      "hod": {
+        "name": "Er. Simran Patel",
+        "role_source": "HoD, Electrical Engineering / Electrical & Electronics Engineering Department",
+        "photo_url": null,
+        "status": "Named in the official course page; current appointment not independently confirmed."
+      },
+      "faculty": [
+        {
+          "name": "Er. Raghib Hussain",
+          "qualification": "BE(Electronics)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Niraj Shriwastav",
+          "qualification": "BE(Electronics & Communication)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Digambar Yadav",
+          "qualification": "BE(Electronics & Communication)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Shubhash Mehra",
+          "qualification": "BE(Electronics & Communication)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Ram Gulam Sah",
+          "qualification": "BE(Electronics)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Sumit Kumar Sah",
+          "qualification": "BE(Electronics & Communication)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Dhurendra Thakur",
+          "qualification": "BE(Electronics & Communication)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Bibek Kumar Chaudhary",
+          "qualification": "DE(Electronics)",
+          "photo_url": null
+        }
+      ],
+      "faculty_coverage": "Complete list returned in the indexed official course page.",
+      "syllabus_url": "https://ctevt.org.np/uploads/docs/2022-12-22_Diploma%20in%20Electrical%20and%20Electronics%20Engineering_revised_2022.pdf",
+      "bit_syllabus_button_url": null,
+      "syllabus_status": "Verified official CTEVT curriculum PDF fallback, not a reconstructed BIT button href. Label with the revision year.",
+      "youtube_embed_url": null,
+      "photos": [],
+      "source_anomalies": [
+        "Source tables use serial-like 1,2,3 values under Subject code; these are preserved as source_serial, not represented as genuine course codes.",
+        "Credit-hour and full-mark cells are empty in BIT source tables, retained as null.",
+        "This is the syllabus listing published by BIT, not proof of its present curriculum implementation.",
+        "Source names Simran Patel as HOD for Electrical / Electrical & Electronics, while management/Electrical page instead name Digamber Yadav.",
+        "Source spells the staff name Digambar Yadav here but Digamber Yadav in Electrical/management; do not invent an identity distinction.",
+        "Source tab scope uses job titles such as Design Engineer and Test Engineer. Display as subject/career directions, not qualification guarantees."
+      ],
+      "coverage_gaps": [
+        "No live raw HTML available from direct fetch.",
+        "No authentic BIT syllabus href exposed.",
+        "No video URL exposed by indexed page.",
+        "No program/HOD photo href exposed by indexed page."
+      ],
+      "official_curriculum": {
+        "url": "https://ctevt.org.np/uploads/docs/2022-12-22_Diploma%20in%20Electrical%20and%20Electronics%20Engineering_revised_2022.pdf",
+        "revision_year": 2022,
+        "page_count": 120,
+        "source_ref": "turn26view3",
+        "content_type": "application/pdf",
+        "status": "PDF opened successfully through official-source web retrieval. Current applicability to BIT intake should be confirmed.",
+        "local_asset": "assets/syllabus-electrical-electronics.pdf",
+        "download_status": "Downloaded successfully from official CTEVT URL; PDF signature validated."
+      }
+    },
+    {
+      "key": "mechanical",
+      "name": "Mechanical Engineering",
+      "title": "Diploma in Mechanical Engineering",
+      "slug": "diploma-in-mechanical-engineering",
+      "source_url": "https://bit.edu.np/diploma-in-mechanical-engineering/",
+      "source_last_updated": "2022-11-30",
+      "source_last_updated_display": "30-11-2022",
+      "source_retrieval": "Official BIT search-index content, checked against multiple retrievals. Direct public HTML fetch returned HTTP 403; most web-open fetches returned 502/timeouts.",
+      "source_refs": [
+        "turn20view0",
+        "turn23search2",
+        "turn21view4",
+        "turn21view5"
+      ],
+      "metadata": {
+        "duration_years": 3,
+        "category": "Mechanical",
+        "language": "English",
+        "affiliation": "CTEVT"
+      },
+      "tabs": {
+        "overview": [
+          "Mechanical Engineering study builds understanding of machines, materials, manufacturing and maintenance.",
+          "The BIT subject list covers drawing, thermal engineering, manufacturing, engines, fluid machines, automotive technology, hydraulics/pneumatics, refrigeration, safety, industrial attachment and projects."
+        ],
+        "eligibility": {
+          "status": "Published historical BIT eligibility; not verified as current admission-cycle requirements.",
+          "source_excerpt": "All Nepalese and foreign candidates must meet the entrance requirement of CTEVT.",
+          "general_stream": "SEE/SLC pass or equivalent, as stated by the original BIT page.",
+          "tslc_thresholds_source": {
+            "IOE_aggregate_percent": 66.66,
+            "CTEVT_aggregate_percent": 68.33
+          },
+          "foreign_student_documents": "Two copies of domicile certificate or passport.",
+          "application_form": "BIT administration office or authorized centre; application fee determined by CTEVT. No rupee amount verified.",
+          "current_guidance": "Confirm the current CTEVT notice and BIT admission requirements before applying."
+        },
+        "scope": [
+          "Machine operation and assembly",
+          "Mechanical maintenance",
+          "Manufacturing and fabrication",
+          "Automotive technology",
+          "Refrigeration and air conditioning",
+          "Industrial and workshop technical work"
+        ]
+      },
+      "why_choose": {
+        "summary": "Learn through machine drawing, manufacturing, mechanical systems, workshop practice, industrial exposure and projects.",
+        "benefits": [
+          "Practical experience",
+          "Technical career directions",
+          "Further study opportunities",
+          "Transferable technical skills"
+        ]
+      },
+      "semesters": [
+        {
+          "number": 1,
+          "label": "Semester 1",
+          "subjects": [
+            {
+              "subject": "Applied Nepali",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Applied English",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Engineering Mathematics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Engineering Physics I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Engineering Chemistry I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Engineering Drawing I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Computer Application",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "label": "Semester 2",
+          "subjects": [
+            {
+              "subject": "Engineering Mathematics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Engineering Physics II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Engineering Chemistry II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Workshop Practice I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Engineering Drawing II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Applied Mechanics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "label": "Semester 3",
+          "subjects": [
+            {
+              "subject": "Basic Electronics Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Electrical Technology",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Machine Drawing",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Material Science",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Thermal Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Engineering Dynamics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Workshop Practice II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            },
+            {
+              "subject": "Industrial Engineering",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 8
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "label": "Semester 4",
+          "subjects": [
+            {
+              "subject": "Manufacturing Technology I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Computer Aided Drawing",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Internal Combustion Engine",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Machine Element & Mechanism",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Strength of Materials",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Fluid Mechanics & Machines",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            },
+            {
+              "subject": "Project I",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 7
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "label": "Semester 5",
+          "subjects": [
+            {
+              "subject": "Manufacturing Technology II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Automobile Technology",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Fundamentals of Hydraulics and Pneumatics",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Machine Design, Estimating & Costing",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Project II",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Industrial Attachment",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 6
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "label": "Semester 6",
+          "subjects": [
+            {
+              "subject": "Advanced Manufacturing Technology",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 1
+            },
+            {
+              "subject": "Basic Refrigeration and Air-conditioning",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 2
+            },
+            {
+              "subject": "Occupational Hygiene and Safety",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 3
+            },
+            {
+              "subject": "Entrepreneurship Development",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 4
+            },
+            {
+              "subject": "Project III",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": 5
+            },
+            {
+              "subject": "Elective (choose one)",
+              "code": null,
+              "credit_hours": null,
+              "full_marks": null,
+              "source_serial": null,
+              "elective_options": [
+                "Project Design",
+                "Hydropower Generation Engineering",
+                "Renewable Energy Technology",
+                "Planning of Mechanical Job Shop"
+              ]
+            }
+          ]
+        }
+      ],
+      "career_outcomes": [
+        "Operating and assembling machines",
+        "Equipment maintenance",
+        "Plumbing and steel fabrication",
+        "Automobile maintenance",
+        "Technical work in government departments, corporations, industry and workshops"
+      ],
+      "hod": {
+        "name": "Er. Jay Prakash Biraji",
+        "role_source": "HoD, Mechanical Engineering Department",
+        "photo_url": "https://bit.edu.np/wp-content/uploads/2023/05/Er.Jayprakash-BirajiHoD-Mechanical-Engineering-1024x683.jpg",
+        "status": "Named in the official course page; current appointment not independently confirmed."
+      },
+      "faculty": [
+        {
+          "name": "Er. Jay Prakash Biraji",
+          "qualification": "BE(Mechanical)",
+          "photo_url": "https://bit.edu.np/wp-content/uploads/2023/05/Er.Jayprakash-BirajiHoD-Mechanical-Engineering-1024x683.jpg"
+        },
+        {
+          "name": "Er. Ganesh Kapadi",
+          "qualification": "BE(Mechanical), MA, MBS",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Dipendra Thakur",
+          "qualification": "BE(Mechanical)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Sandip Agrawal",
+          "qualification": "BE(Mechanical)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Sagar Chaudhary",
+          "qualification": "AMIE(Mechanical)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Niranjan Chaurasiya",
+          "qualification": "BE(Mechanical)",
+          "photo_url": null
+        },
+        {
+          "name": "Er. Shyam Kishor Das",
+          "qualification": "BE(Mechanical)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Pradeep Chaudhary",
+          "qualification": "DE(Mechanical)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Rakesh Yadav",
+          "qualification": "DE(Mechanical)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Subodh Yadav",
+          "qualification": "DE(Mechanical)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Raja Babu Yadav",
+          "qualification": "DE(Mechanical)",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Manoj Singh",
+          "qualification": "Mechanical Machines Operator",
+          "photo_url": null
+        },
+        {
+          "name": "Mr. Manistar Kushwaha",
+          "qualification": "Mechanical Machines Operator",
+          "photo_url": null
+        }
+      ],
+      "faculty_coverage": "Complete list returned in the indexed official course page.",
+      "syllabus_url": "https://ctevt.org.np/uploads/docs/2024-02-21_Diploma%20in%20Mechanical%20Engineering_revised_2022.pdf",
+      "bit_syllabus_button_url": null,
+      "syllabus_status": "Verified official CTEVT curriculum PDF fallback, not a reconstructed BIT button href. Label with the revision year.",
+      "youtube_embed_url": null,
+      "photos": [
+        {
+          "role": "why_choose",
+          "url": "https://bit.edu.np/wp-content/uploads/2023/02/Untitled-design-2023-02-02T171305.099_11zon.jpg",
+          "provenance": "Actual image URL returned by clicking Mechanical page Why Choose image."
+        }
+      ],
+      "source_anomalies": [
+        "Source tables use serial-like 1,2,3 values under Subject code; these are preserved as source_serial, not represented as genuine course codes.",
+        "Credit-hour and full-mark cells are empty in BIT source tables, retained as null.",
+        "This is the syllabus listing published by BIT, not proof of its present curriculum implementation.",
+        "Mechanical Overview and Why Choose prose are wrongly copied from Civil Engineering, including a 3–4 year duration. Do not migrate the inaccurate prose.",
+        "Mechanical review tab contains template text. Omit it.",
+        "Mechanical VI source attaches elective options to Project III. Separate elective row has no original serial/code."
+      ],
+      "coverage_gaps": [
+        "No live raw HTML available from direct fetch.",
+        "No authentic BIT syllabus href exposed.",
+        "No video URL exposed by indexed page.",
+        "No additional faculty photo URLs exposed."
+      ],
+      "official_curriculum": {
+        "url": "https://ctevt.org.np/uploads/docs/2024-02-21_Diploma%20in%20Mechanical%20Engineering_revised_2022.pdf",
+        "revision_year": 2022,
+        "page_count": 117,
+        "source_ref": "turn28view0",
+        "content_type": "application/pdf",
+        "status": "PDF opened successfully through official-source web retrieval. Current applicability to BIT intake should be confirmed.",
+        "local_asset": "assets/syllabus-mechanical.pdf",
+        "download_status": "Downloaded successfully from official CTEVT URL; PDF signature validated."
+      }
+    }
+  ],
+  "data_policy": {
+    "course_tables": "BIT published subjects and faculty. Missing code/credit/marks retained as null; original serial is not a subject code.",
+    "normalization": "Computer split labels joined with explicit source_labels annotations. Electives moved into separate unnumbered rows.",
+    "copy": "Overview, scope, why-choose and outcome prose summarized from official subject/career facts. No false job, professional-title or current-policy guarantees.",
+    "staff": "Names and qualifications preserve course-source spelling. Staff appointments are source labels, not independently verified as current.",
+    "downloads": "All five actual CTEVT PDFs were returned and opened; BIT button href remains null.",
+    "videos": "Only Computer has a user-supplied exact embed URL. Do not invent/embed that video as another department’s video."
+  },
+  "coverage": {
+    "program_count": 5,
+    "semester_count": 30,
+    "faculty_counts": {
+      "computer": 11,
+      "civil": 11,
+      "electrical": 15,
+      "electrical-electronics": 8,
+      "mechanical": 13
+    },
+    "faculty_total_listed": 58,
+    "ctevt_curriculum_pdf_count": 5,
+    "video_programs": [
+      "computer"
+    ],
+    "verified_program_photo_programs": [
+      "computer",
+      "mechanical"
+    ],
+    "open_gaps": [
+      "Civil/Electrical/Electrical & Electronics photo and HOD image hrefs not exposed.",
+      "Video URLs for four programs not exposed.",
+      "BIT course-table numeric credits/marks/codes absent.",
+      "Current BIT faculty appointments and admissions thresholds not independently current."
+    ]
+  }
+}
